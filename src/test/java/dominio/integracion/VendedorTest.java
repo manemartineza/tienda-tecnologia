@@ -25,6 +25,7 @@ public class VendedorTest {
 	private RepositorioProducto repositorioProducto;
 	private RepositorioGarantiaExtendida repositorioGarantia;
 	
+	
 
 	@Before
 	public void setUp() {
